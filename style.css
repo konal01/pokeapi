@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+#all{
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+#pokemonSprite{
+    margin: 10px;
+    
+}
